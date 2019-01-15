@@ -1,4 +1,4 @@
-### Kompilacja i uruchomienie:
+### Uruchomienie:
 
 
 ```
